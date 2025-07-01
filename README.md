@@ -1,5 +1,5 @@
 # 🧑🏻‍💼**The Real Work-Life Story:** 
-### *work_life_Analysis - A primary data perspective*
+### *work_life_Analysis - A primary data perspective* 
 
 ## Project Overview:
 This project is based on primary data analysis collected through a Google Form. The survey was distributed to working professionals across various industry domains to gain insights into their work-life balance. The form was thoughtfully structured into three key sections:
